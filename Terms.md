@@ -69,7 +69,7 @@ You may keep a volume at any time during the trial, including on the first day.
 
 ## 6. Purchases
 
-TraceLeaf sells **life volumes**, not subscriptions.
+TraceLeaf sells **five-year volumes**, not subscriptions.
 
 Each five-year book is its own one-time purchase. Buying one volume does not buy, renew, or charge you for another volume. There is no automatic renewal and no monthly or yearly plan for volumes.
 
@@ -217,4 +217,4 @@ Questions about these Terms, purchases, restore, or TraceLeaf:
 
 ---
 
-**Last updated:** September 1, 2026
+**Last updated:** September 5, 2026
