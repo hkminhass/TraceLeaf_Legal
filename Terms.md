@@ -55,7 +55,7 @@ All rights in TraceLeaf — including the name, design, software, covers, and ot
 
 ## 5. Trial
 
-You may live in the book for a trial of about **60 days**.
+You may live in the book for a trial of about **30 days**.
 
 During the trial, you can write in the volumes available in the app. The trial does not permanently own a volume for you.
 
