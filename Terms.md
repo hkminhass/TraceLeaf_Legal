@@ -1,6 +1,6 @@
 # Terms of Use — TraceLeaf
 
-**Effective date:** September 1, 2026
+**Effective date:** October 2, 2026
 
 **Contact:** traceleafofficial@gmail.com
 
@@ -10,7 +10,7 @@ By downloading, installing, or using TraceLeaf, you agree to these Terms. If you
 
 Our Privacy Policy is part of how we describe the service and is available at:
 
-https://github.com/hkminhass/TraceLeaf_Legal/blob/main/Privacy_policy.md
+https://hkminhass.github.io/TraceLeaf_Legal/Privacy_policy.html
 
 ## 1. The Service
 
@@ -55,15 +55,17 @@ All rights in TraceLeaf — including the name, design, software, covers, and ot
 
 ## 5. Trial
 
-You may live in the book for a trial of about **30 days**.
+You may live in the first five-year book for a trial of about **30 days**.
 
-During the trial, you can write in the volumes available in the app. The trial does not permanently own a volume for you.
+The trial allows you to write in the first five-year book only. Other five-year volumes are separate books and require their own purchase before you can write in them.
 
-When the trial ends, if you have not kept a volume:
+The trial does not permanently own a volume for you.
 
-- Memories you already wrote stay readable and browsable
-- Writing in that volume, and exporting that volume as a PDF, wait until you keep it
-- Starting or writing in a new volume also waits until that volume is kept
+When the trial ends, if you have not kept the first volume:
+
+- Memories you already wrote stay readable and browsable.
+- Writing in that volume, and exporting that volume as a PDF, wait until you keep it.
+- Starting or writing in another volume also waits until that volume is kept.
 
 You may keep a volume at any time during the trial, including on the first day.
 
@@ -116,13 +118,13 @@ If you enable cloud backup:
 
 We do not promise that any device, account, or third-party service is impossible to access or breach. Do not treat backup as a guarantee against loss.
 
-You can disconnect backup in the app where supported and manage or delete backup files through the relevant cloud account.
+You can disconnect backup in the app where supported. Depending on the cloud provider and storage mechanism, managing or deleting an existing backup may need to be done through the relevant cloud account or provider controls.
 
 ## 8. PDF Export
 
 You can export a book as a PDF of the volume currently open — its cover, years, and memories. Each five-year book is exported separately.
 
-After the trial, export for a volume is part of keeping that volume.
+PDF export is available only for a volume you have kept/purchased. The trial does not include PDF export.
 
 The PDF is created on your device. We do not receive it unless you send it to us (for example in a support email).
 
@@ -217,4 +219,4 @@ Questions about these Terms, purchases, restore, or TraceLeaf:
 
 ---
 
-**Last updated:** September 5, 2026
+**Last updated:** October 2, 2026
