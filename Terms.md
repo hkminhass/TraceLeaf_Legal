@@ -14,7 +14,7 @@ https://hkminhass.github.io/TraceLeaf_Legal/Privacy_policy.html
 
 ## 1. The Service
 
-TraceLeaf is a personal five-year diary. You write one line a day. Each page is a calendar date, with a line for each year in a five-year volume, so memories sit side by side.
+TraceLeaf is a personal five-year diary. You write one line a day. Each calendar date shows a line for each year in a five-year volume, so memories sit side by side.
 
 TraceLeaf is designed as a local-first application:
 
