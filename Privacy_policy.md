@@ -1,6 +1,6 @@
 # Privacy Policy — TraceLeaf
 
-**Effective date:** August 30, 2026
+**Effective date:** October 2, 2026
 
 **Contact:** traceleafofficial@gmail.com
 
@@ -35,7 +35,6 @@ This may include:
 - Diary entries and memories
 - Diary volume information and dates
 - Favorite entries
-- Search-related information
 - Cover, font, and appearance preferences
 - Reminder settings
 - App lock preferences
@@ -145,7 +144,9 @@ Google's handling of your Google account and Google Drive information is governe
 
 https://policies.google.com/privacy
 
-You can disconnect Google Drive backup through the app where supported and manage or delete your backup through your Google account.
+You can disconnect Google Drive backup through TraceLeaf where supported. You can also manage your Google account's access to TraceLeaf through your Google account settings.
+
+Existing Google Drive app data or backup data may need to be managed or removed through Google's own account and storage controls. TraceLeaf does not represent that it can directly delete data stored in Google's systems.
 
 ### iCloud
 
@@ -169,7 +170,9 @@ Once a backup has been uploaded to Google Drive or iCloud, the relevant third pa
 
 ## PDF Export
 
-TraceLeaf allows you to export your diary as a PDF.
+TraceLeaf allows you to export a kept or purchased diary volume as a PDF.
+
+PDF export is not included as part of the trial. A volume must be kept or purchased before its diary can be exported as a PDF.
 
 The exported PDF is created on your device and may be saved or shared using your device's available file and sharing features.
 
@@ -239,15 +242,21 @@ traceleafofficial@gmail.com
 
 ### On-device information
 
-Information stored locally by TraceLeaf remains on your device until you delete it through the app, clear the app's storage, uninstall the application, or otherwise remove the relevant data.
+Information stored locally by TraceLeaf remains on your device until you remove the relevant local data, clear the app's storage, uninstall the application, or otherwise remove the data from your device.
+
+TraceLeaf does not provide an account-based server where your everyday diary entries are stored and from which we can remotely delete your diary.
 
 ### Cloud backups
 
 Cloud backups remain in your Google Drive or iCloud account until you delete them or otherwise remove them according to the relevant cloud service's functionality.
 
+Disconnecting or revoking TraceLeaf's access to a cloud service does not necessarily delete existing backup data stored by that provider. You may need to use the relevant provider's account or storage controls to manage or delete existing backup data.
+
 ### Purchase information
 
-Purchase and transaction records are maintained by Google, Apple, and RevenueCat according to their respective policies and applicable retention requirements.
+Purchase and transaction records may be maintained by Google, Apple, and RevenueCat according to their respective policies and applicable retention requirements.
+
+TraceLeaf does not control the retention or deletion of records maintained by these third parties.
 
 ### Support communications
 
@@ -262,16 +271,18 @@ Depending on where you live, you may have legal rights regarding personal inform
 Because TraceLeaf is designed to store diary content locally:
 
 - You can access your diary directly in the app.
-- You can export your diary as a PDF.
-- You can delete local diary information using the app's available deletion controls or by removing the app's local data.
+- You can export a kept or purchased volume as a PDF.
+- You can remove local app data by clearing the app's storage or uninstalling the application.
 - You can choose whether to enable cloud backup.
 - You can disconnect optional cloud backup services where supported.
 - You can manage purchases and request applicable refunds through the relevant app store.
 - You can contact us regarding information contained in support correspondence.
 
-For privacy-related questions or requests concerning information that we directly handle, contact:
+For privacy-related questions or requests concerning information that TraceLeaf directly handles, contact:
 
 traceleafofficial@gmail.com
+
+If your request concerns information held by Google, Apple, RevenueCat, or another third-party provider, you may also need to contact that provider or use its account, privacy, or data-management controls.
 
 ## International Users
 
@@ -307,4 +318,4 @@ If you have questions about this Privacy Policy, privacy, data handling, purchas
 
 ---
 
-**Last updated:** August 30, 2026
+**Last updated:** October 2, 2026
